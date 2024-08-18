@@ -1,5 +1,5 @@
 # Network3 Node
-Running a Network3 node allows you to join a cutting-edge decentralized data network, enhancing privacy, security, and control over data transactions. By participating, you contribute to a resilient infrastructure and can earn rewards, fostering a robust ecosystem.
+Running a Network3 node allows you to join a cutting-edge decentralized data network, enhancing privacy, security, and control over data transactions. By participating, you contribute to a resilient infrastructure and can earn rewards, fostering a robust ecosystem. Network3 has secured $5.5 million in seed funding from prominent investors such as IoTeX, Waterdrip Capital, SNZ Holding, Bing Ventures, and Escape Velocity (EV3).
 * Website : https://network3.io/
 * X : https://twitter.com/network3_ai
 
